@@ -1,0 +1,27 @@
+flight ID,Arrival,Departure,success
+A12,09:00,13:00,success
+A14,12:00,19:00,success
+B15,10:00,13:00,success
+C124,14:00,16:00,fail
+C23,08:00,17:00,success
+B12,13:01,16:00,fail
+G56,09:30,14:00,success
+B35,16:01,20:00,success
+A21,08:00,13:00,success
+A19,17:00,19:00,fail
+B55,11:00,13:00,fail
+C128,12:00,16:00,success
+C26,08:00,17:00,success
+B52,12:01,16:00,success
+G86,07:30,14:00,success
+B65,17:01,20:00,fail
+B05,10:00,14:00,success
+C1223,12:55,16:00,success
+C235,08:00,22:00,success
+B46,14:01,16:00,fail
+G88,09:30,14:00,success
+B39,16:01,20:00,success
+G88,11:30,14:05,success
+B39,16:01,20:00,success
+A444,13:00,15:23,fail
+Z999,03:00,15:03,success
